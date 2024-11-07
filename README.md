@@ -19,4 +19,4 @@ Etch-a-Sketch is a simple web-based drawing application that allows users to cre
 2. Hover over the squares to fill them with color.
 4. Click the "Reset" button to clear the grid and reset it to the default size.
 
-You can access the live application on this URL: 
+You can access the live application on this URL: https://parikhitm.github.io/Etch-a-Sketch/
